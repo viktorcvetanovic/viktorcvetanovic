@@ -33,5 +33,5 @@ I'm a student that loves to learn new stuff and explore new challenges. I'm very
 
 <div align="center">
     <a href="#" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg" height="30"/></a>
-    <a href="https://www.linkedin.com/in/aleksa-ceki%C4%87-347148224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
+    <a href="https://www.linkedin.com/in/viktor-cvetanovic-a5254920b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
 </div>
