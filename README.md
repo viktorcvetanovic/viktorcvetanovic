@@ -12,20 +12,20 @@ I'm a student that loves to learn new stuff and explore new challenges. I'm very
 ## Top languages and technologies
 
 <div>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
 </div>
 
 ## Stats
 
 <div align="center">
     <a href="https://github.com/viktorcvetanovic">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yxngalex&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxngalex&layout=compact&langs_count=7&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viktorcvetanovic&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorcvetanovic&layout=compact&langs_count=7&theme=synthwave"/>
     </a>
 </div>
 
