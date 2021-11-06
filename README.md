@@ -23,7 +23,7 @@ I'm a student that loves to learn new stuff and explore new challenges. I'm very
 ## Stats
 
 <div align="center">
-    <a href="https://github.com/yxngalex">
+    <a href="https://github.com/viktorcvetanovic">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yxngalex&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxngalex&layout=compact&langs_count=7&theme=synthwave"/>
     </a>
