@@ -2,12 +2,6 @@
 
 I'm currently studying **Software Engineering** and I'm working as a Software Developer at Metropolitan University, Niš, Serbia.
 
-I'm a student that loves to learn new stuff and explore new challenges. I'm very passionate about solving all kinds of different problems and I love breaking down complex problems into simple solutions.
-
-<!--
-- 🔭 I’m currently working on responsive e-commerce app.
-- 🌱 I’m currently learning python.
--->
 
 ## Top languages and technologies
 
